@@ -1,2 +1,20 @@
 {
+    "python.pythonPath": "/home/alpha/anaconda3/bin/python",
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#49125f",
+        "titleBar.activeBackground": "#280a34",
+        "titleBar.activeForeground": "#e7e7e7",
+        "activityBar.activeBackground": "#49125f",
+        "activityBar.activeBorder": "#866719",
+        "activityBar.foreground": "#e7e7e7",
+        "activityBar.inactiveForeground": "#e7e7e799",
+        "activityBarBadge.background": "#866719",
+        "activityBarBadge.foreground": "#e7e7e7",
+        "statusBar.background": "#280a34",
+        "statusBar.foreground": "#e7e7e7",
+        "statusBarItem.hoverBackground": "#49125f",
+        "titleBar.inactiveBackground": "#280a3499",
+        "titleBar.inactiveForeground": "#e7e7e799"
+    },
+    "peacock.color": "#280a34"
 }
